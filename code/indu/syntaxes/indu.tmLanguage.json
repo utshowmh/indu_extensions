@@ -40,6 +40,10 @@
 					"match": "\\b(true|false)\\b"
 				},
 				{
+					"name": "support.function.builtin.lox",
+					"match": "\\b(print)\\b"
+				},
+				{
 					"name": "variable.language.this.indu",
 					"match": "\\b(this)\\b"
 				},
